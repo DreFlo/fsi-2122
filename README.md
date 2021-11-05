@@ -1,9 +1,8 @@
-
 Breve descrição do grupo
 
-* Turno: [LM]XX
-* Grupo: YY
+* Turno: L05
+* Grupo: 01
 * Alunos:
-    - Aluno1 upZZZZZ 
-    - Aluno2 upZZZZZ
-    - Aluno3 upZZZZZ
+    - André Flores up201907001 
+    - Diogo Faria up201907014
+    - Tiago Rodrigues up201906807
