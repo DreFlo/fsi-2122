@@ -16,12 +16,10 @@
 
 - The system is vulnerable when processing a LNK or PIF file
 - 
-- item3
-- item4
 
 ## Ataques
 
-- item1
-- item2
-- item3
-- item4
+- This and 3 other zero-day exploits were used in the infamous Stuxnet worm.
+- This vulnerablity was used to spread the worm through infected USB flash drives belonging to companies connected to nuclear program.
+- The Stuxnet worm targeted centrifuges crippling Iran's urainum enrichment capabilities.
+- Was the first virus that caused physical damage.
