@@ -8,15 +8,14 @@
 
 ## Catalogação
 
-- item1
-- item2
-- item3
-- item4
+- VirusBlockAda reported vulnerabilaty on June 17 2010.
+- Microsoft released the first patch ion 2 August 2010.
+- There is complete loss of system protection and total compromise of system integrity.
 
 ## Exploit
 
-- item1
-- item2
+- The system is vulnerable when processing a LNK or PIF file
+- 
 - item3
 - item4
 
