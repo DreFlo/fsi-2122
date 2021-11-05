@@ -14,8 +14,9 @@
 
 ## Exploit
 
-- The system is vulnerable when processing a LNK or PIF file
-- 
+- The system is vulnerable when processing a crafted LNK or PIF file.
+- This allows the execution of arbitrary code, leading to complete system vulnerabilaty.
+- There are currently two verified exploits, one local and one remote, as a way to explore this vulnerabilaty.
 
 ## Ataques
 
