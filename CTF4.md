@@ -1,4 +1,3 @@
-
 We accessed the website and took the time to browse through it, noting the two users (Admin & Orval Sanford), and seeing the information on the product description and the additional information for the Wordpress Hosting.
 From it we got the program version for Wordpress, WooCommerce plugin & Booster for WooCommerce Pluggin.
 We researched different CVE's for each of the program's versions, ending up with find one for the Booster for WooCommerce Pluggin (CVE-2021-34646) which allowed bypassing the authentication feature.
