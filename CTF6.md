@@ -13,5 +13,5 @@ The vulnerability is found in line 12, with scanf(), allowing us to take advanta
 
 The flag is stored in stored in the file flag.txt, not loaded into memory, being accessed by using the system command giving us access to the bash.
 
-In order to use this, we had to change a certain memory position, found with gdb, to a specific value in order to enter the if statement, after which we simply used 'cat flag.txt' to get the value from the file.
+In order to use this, we had to change a certain memory position, found with gdb, to a specific value in order to enter the if statement. We did this by writing a specific number of characters with printf() and then storing that number at a certain memory position with "%n" ("\x01\x01\x01\x01\x34\xc0\x04\x08%.48871d%n").After which we simply used 'cat flag.txt' to get the value from the file.
 flag{c12871068a2ef0874cc72d0e9eff2499}
