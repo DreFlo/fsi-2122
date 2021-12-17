@@ -1,6 +1,6 @@
 # Task 1
 
-As we want to have information about the credentials of employee Alice:
+As we want to have information about the credentials of employee Alice, we used a sql query to select the information from the credential table using 'Alice' as the name:
 
 ![](task1.png)
 
