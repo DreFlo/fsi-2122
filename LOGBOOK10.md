@@ -4,5 +4,7 @@ Since there are no security measures related to user input, anything that a user
      <script>alert(’XSS’);</script>
 ```
  will create an alert for whoever views the page.
-#Task 2
+# Task 2
 Through the same process we are able to discover the cookie of the user viewing the webpage.
+# Task 3
+By sending a GET request to our own machine with the cookie in the URL and listening for it we were able to steal the user's information.
